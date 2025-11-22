@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/22csed33119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="22csed33119" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utsav dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav dwivedi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/utsav-dwivedi51/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsav dwivedi" height="30" width="40" /></a>
 <a href="https://instagram.com/utsav_dwi_vedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsav_dwi_vedi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/utsavdwivedi51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="utsavdwivedi51" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utsav_dwivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utsav_dwivedi" height="30" width="40" /></a>
