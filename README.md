@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Utsav Dwivedi</h1>
+<h1 align="center">Hi , I'm Utsav Dwivedi</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <img align="Right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavdwivedi51&label=Profile%20views&color=0e75b6&style=flat" alt="utsavdwivedi51" /> </p>
 
-- 📫 How to reach me *utsavdwivedi51@gmail.com*
+-  How to reach me *utsavdwivedi51@gmail.com*
 
-- Here you find valuable saas projects based on jws authentication not a flood of small projects*
+- Here you find valuable saas projects on JWT-based authentication; not a flood of small projects*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
