@@ -1,18 +1,18 @@
 <h1 align="center">Hi , I'm Utsav Dwivedi</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<h3>**Hi, I’m Utsav Dwivedi**
-A passionate **Software Engineer** building practical and impactful projects across web development and intelligent tools.
+<h3>Hi, I’m Utsav Dwivedi
+A passionate Software Engineer building practical and impactful projects across web development and intelligent tools.
 
 I love turning ideas into real applications - from full-stack web solutions to interactive front-end UI and smart tools powered by Python and NLP. My GitHub showcases a mix of beginner-to-intermediate projects that highlight strong fundamentals in HTML, CSS, JavaScript, and Python.
 
 ### What you’ll find here
 
-**Attendance-ERP** - A web-based attendance management system with teacher/student roles and responsive UI.
-**Portfolio** - My personal portfolio website demonstrating UI/UX and project showcases.
-**Messenger-clone** - Front-end chat UI with themes and interactive components.
-**AI-based-Resume-Analyzer** - An NLP-based tool to analyze and optimize resumes against ATS standards.
-And other utility projects showing hands-on practice with core web technologies.
-And many more scalable full stack with database and API integrated projects will come in upcoming days.
+**Attendance-ERP** - A web-based attendance management system with teacher/student roles and responsive UI. <br>
+**Portfolio** - My personal portfolio website demonstrating UI/UX and project showcases.<br>
+**Messenger-clone** - Front-end chat UI with themes and interactive components.<br>
+**AI-based-Resume-Analyzer** - An NLP-based tool to analyze and optimize resumes against ATS standards.<br>
+And other utility projects showing hands-on practice with core web technologies.<br>
+And many more scalable full stack with database and API integrated projects will come in upcoming days.<br>
 
 I’m always learning new technologies and improving my coding skills - especially in the areas of **modern JavaScript frameworks, Python tooling, and scalable web development**.
 
