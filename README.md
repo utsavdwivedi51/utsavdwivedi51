@@ -1,9 +1,6 @@
 <h1 align="center">Hi , I'm Utsav Dwivedi</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<h3>Hi, I’m Utsav Dwivedi
-A passionate Software Engineer building practical and impactful projects across web development and intelligent tools.
-
-I love turning ideas into real applications - from full-stack web solutions to interactive front-end UI and smart tools powered by Python and NLP. My GitHub showcases a mix of beginner-to-intermediate projects that highlight strong fundamentals in HTML, CSS, JavaScript, and Python.
+<h3>I love turning ideas into real applications - from full-stack web solutions to interactive front-end UI and smart tools powered by Python and NLP. My GitHub showcases a mix of beginner-to-intermediate projects that highlight strong fundamentals in HTML, CSS, JavaScript, and Python.
 
 ### What you’ll find here
 
