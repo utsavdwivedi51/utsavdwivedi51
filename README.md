@@ -1,6 +1,23 @@
 <h1 align="center">Hi , I'm Utsav Dwivedi</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align="Right" alt="coding" width="400" src="https://imgs.search.brave.com/11DWmFu-wB27zXlC92RMaKEh4KfeVHnsvgzvxuQRMz8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+<h3>**Hi, I’m Utsav Dwivedi**
+A passionate **Software Engineer** building practical and impactful projects across web development and intelligent tools.
+
+I love turning ideas into real applications - from full-stack web solutions to interactive front-end UI and smart tools powered by Python and NLP. My GitHub showcases a mix of beginner-to-intermediate projects that highlight strong fundamentals in HTML, CSS, JavaScript, and Python.
+
+### What you’ll find here
+
+**Attendance-ERP** - A web-based attendance management system with teacher/student roles and responsive UI.
+**Portfolio** - My personal portfolio website demonstrating UI/UX and project showcases.
+**Messenger-clone** - Front-end chat UI with themes and interactive components.
+**AI-based-Resume-Analyzer** - An NLP-based tool to analyze and optimize resumes against ATS standards.
+And other utility projects showing hands-on practice with core web technologies.
+And many more scalable full stack with database and API integrated projects will come in upcoming days.
+
+I’m always learning new technologies and improving my coding skills - especially in the areas of **modern JavaScript frameworks, Python tooling, and scalable web development**.
+
+Let’s build things that matter!
+ </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavdwivedi51&label=Profile%20views&color=0e75b6&style=flat" alt="utsavdwivedi51" /> </p>
 
 -  How to reach me *utsavdwivedi51@gmail.com*
