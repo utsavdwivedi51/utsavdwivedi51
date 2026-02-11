@@ -6,6 +6,7 @@
 
 **Attendance-ERP** - A web-based attendance management system with teacher/student roles and responsive UI. <br>
 **Portfolio** - My personal portfolio website demonstrating UI/UX and project showcases.<br>
+**QuickTalk** - A personal AI assistant modern chatbot with integrated API key of another chatbot that give real answers.<br>
 **Messenger-clone** - Front-end chat UI with themes and interactive components.<br>
 **AI-based-Resume-Analyzer** - An NLP-based tool to analyze and optimize resumes against ATS standards.<br>
 And other utility projects showing hands-on practice with core web technologies.<br>
