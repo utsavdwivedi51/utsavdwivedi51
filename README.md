@@ -7,7 +7,6 @@
 **Attendance-ERP** - A web-based attendance management system with teacher/student roles and responsive UI. <br>
 **Portfolio** - My personal portfolio website demonstrating UI/UX and project showcases.<br>
 **QuickTalk** - A personal AI assistant modern chatbot with integrated API key of another chatbot that give real answers.<br>
-**Messenger-clone** - Front-end chat UI with themes and interactive components.<br>
 **AI-based-Resume-Analyzer** - An NLP-based tool to analyze and optimize resumes against ATS standards.<br>
 And other utility projects showing hands-on practice with core web technologies.<br>
 And many more scalable full stack with database and API integrated projects will come in upcoming days.<br>
@@ -17,8 +16,6 @@ I’m always learning new technologies and improving my coding skills - especial
 Let’s build things that matter!
  </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavdwivedi51&label=Profile%20views&color=0e75b6&style=flat" alt="utsavdwivedi51" /> </p>
-
--  How to reach me *utsavdwivedi51@gmail.com*
 
 - Here you find valuable saas projects on JWT-based authentication; not a flood of small projects*
 
